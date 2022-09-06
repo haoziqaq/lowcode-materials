@@ -1,5 +1,5 @@
 {
-  "name": "@alilc/antd-lowcode-materials",
+  "name": "@alilc/antd-lowcode-materials-example",
   "version": "1.0.12",
   "description": "Antd for LowCode",
   "main": "lib/index.js",
